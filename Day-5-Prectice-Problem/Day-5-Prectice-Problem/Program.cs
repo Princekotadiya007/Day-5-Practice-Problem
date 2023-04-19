@@ -21,7 +21,8 @@ namespace Day_5_Prectice_Problem
 
             MinmumNumber minmum = new MinmumNumber();
             //minmum.MinNumber();
-            minmum.Float();
+            //minmum.Float();
+            minmum.String();
         }
     }
 }
