@@ -20,7 +20,8 @@ namespace Day_5_Prectice_Problem
             //Console.WriteLine(string.Join(",", newDoubleArr));
 
             MinmumNumber minmum = new MinmumNumber();
-            minmum.MinNumber();
+            //minmum.MinNumber();
+            minmum.Float();
         }
     }
 }
